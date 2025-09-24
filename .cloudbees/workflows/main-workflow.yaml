@@ -167,7 +167,7 @@ jobs:
         uses: cloudbees-io/publish-evidence-item@v1
         with:
           content: |-
-            ## SonarQube Analysis Results
+            ## SonarQube Analysis Results for demo
 
             | Severity             | Issue Count |
             |----------------------|-------------|
