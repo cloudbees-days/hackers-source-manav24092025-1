@@ -10,7 +10,7 @@ This app is a Vue.js-based clone of [Hacker News](https://hn.ycombinator.com).
 
 It is helpful to have a go-to app for demoing new tools - this is mine. It's nice to have an app that is more than just a hello world, so I tried to create one that mirrors something usable to some degree.
 
-## Tech info
+## Tech info for the Demo
 
 - [Vue.js](https://vuejs.org/) - The frontend web framework used to build the site
 - [HackerNews/API](https://github.com/HackerNews/API) - Source of data
